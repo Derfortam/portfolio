@@ -1,0 +1,144 @@
+[
+   {
+      "title": "Website of chronology of events of the war in Ukraine",
+      "text": [
+         "The website was created for a university project. It provides basic concepts and information about important events during the war. The “Chronology” tab divides the information into criteria according to time. The “Events” tab tells about keyWebsite of chronology of events of the war in Ukraine Link to the website and significant events of the war. The site is only a front-end part, not fully filled",
+         "Skills and deliverables: HTML, SCSS, CSS, JavaScript"
+      ],
+      "link": "https://derfortam.github.io/web-projects/%D0%BD%D0%B0%D1%86%D1%96%D1%8FMemory/index.html",
+      "images": {
+         "mainPhoto": "/images/main-war.jpg",
+         "secondPhoto": "/images/second-war.jpg",
+         "accentPhoto": "/images/accent-war.jpg"
+      },
+      "roles": ["Front-end engineer", "Designer"],
+      "isReverse": false
+   },
+   {
+      "title": "Book store website",
+      "text": [
+         "The purpose of the project was to create a static website consisting of several pages that display information about books collected in catalogs. I used the basic tools for building web pages, and also built my own custom functions and blocks that solved certain problems.",
+         "Skills and deliverables: HTML, SCSS, JavaScript, JSON"
+      ],
+      "link": "https://derfortam.github.io/web-projects/booknook/",
+      "images": {
+         "mainPhoto": "/images/main-book.jpg",
+         "secondPhoto": "/images/second-book.jpg",
+         "accentPhoto": "/images/accent-book.jpg"
+      },
+      "roles": ["Front-End engineer", "Designer"],
+      "isReverse": true
+   },
+   {
+      "title": "Simple one-page website",
+      "text": [
+         "The goal of the project was to create a static simple one-page website with some grids, photos and icons",
+         "Skills and deliverables: HTML, SCSS, JavaScript"
+      ],
+      "link": "https://derfortam.github.io/frontent-work/aperture/",
+      "images": {
+         "mainPhoto": "/images/main-aperture.jpg",
+         "secondPhoto": "/images/second-aperture.jpg",
+         "accentPhoto": "/images/accent-aperture.jpg"
+      },
+      "roles": ["Front-End engineer"],
+      "isReverse": false
+   },
+   {
+      "title": "Photographer website",
+      "text": [
+         "This project was done for my coursework and it is my first multipage website, so there are a few flaws in it. This is a portfolio site for a photographer who presents his work and offers his services",
+         "Skills and deliverables: HTML, SCSS, JavaScript"
+      ],
+      "link": "https://derfortam.github.io/frontent-work/photographer/",
+      "images": {
+         "mainPhoto": "/images/main-photographer.jpg",
+         "secondPhoto": "/images/second-photographer.jpg",
+         "accentPhoto": "/images/accent-photographer.jpg"
+      },
+      "roles": ["Front-End engineer"],
+      "isReverse": true
+   },
+   {
+      "title": "Game website",
+      "text": [
+         "A simple one-page website that mainly deals with the topic of gaming",
+         "Skills and deliverables: HTML, SCSS, JavaScript, SVG, Swiper"
+      ],
+      "link": "https://derfortam.github.io/frontent-work/infinizai-project/",
+      "images": {
+         "mainPhoto": "/images/main-game.jpg",
+         "secondPhoto": "/images/second-game.jpg",
+         "accentPhoto": "/images/accent-game.jpg"
+      },
+      "roles": ["Front-End engineer"],
+      "isReverse": false
+   },
+   {
+      "title": "Tip Calculator App",
+      "text": ["A simple web app for finding interest and tips", "Skills and deliverables: HTML, SCSS, JavaScript"],
+      "link": "https://derfortam.github.io/frontent-work/tip-calculator-app-main/",
+      "images": {
+         "mainPhoto": "/images/main-tip.jpg",
+         "secondPhoto": "/images/second-tip.jpg",
+         "accentPhoto": "/images/accent-tip.jpg"
+      },
+      "roles": ["Front-End engineer"],
+      "isReverse": true
+   },
+
+   {
+      "title": "Commercial Website 'Krovato'",
+      "text": ["A large multi-page commercial website selling furniture and beds", "Skills and deliverables: HTML, SCSS, JavaScript"],
+      "link": " https://derfortam.github.io/web-projects/krovato/",
+      "images": {
+         "mainPhoto": "/images/main-krovato.jpg",
+         "secondPhoto": "/images/second-krovato.jpg",
+         "accentPhoto": "/images/accent-krovato.jpg"
+      },
+      "roles": ["Front-End engineer"],
+      "isReverse": false
+   },
+   {
+      "title": "One-page website for yoga",
+      "text": [
+         "A one-page minimalist website with the theme of providing yoga services and promoting a healthy lifestyle.",
+         "Skills and deliverables: HTML, SCSS, JavaScript"
+      ],
+      "link": "https://derfortam.github.io/frontent-work/yogaMind/",
+      "images": {
+         "mainPhoto": "/images/main-yoga.jpg",
+         "secondPhoto": "/images/second-yoga.jpg",
+         "accentPhoto": "/images/accent-yoga.jpg"
+      },
+      "roles": ["Front-End engineer"],
+      "isReverse": true
+   },
+   {
+      "title": "One-page website & template of marine coprs",
+      "text": [
+         "A one-page website that serves as a blog and informational page for joining the Marine Corps. It includes general information for applicants, benefits of joining, news, and contact information.",
+         "Skills and deliverables: HTML, SCSS, JavaScript"
+      ],
+      "link": "https://derfortam.github.io/web-projects/corps/",
+      "images": {
+         "mainPhoto": "/images/main-corps.jpg",
+         "secondPhoto": "/images/second-corps.jpg",
+         "accentPhoto": "/images/accent-corps.jpg"
+      },
+      "roles": ["Front-End engineer"],
+      "isReverse": false
+   },
+   {
+      "title": "Canvix website",
+      "text": ["A simple website for a business company that provides IT services and more. ", "Skills and deliverables: HTML, SCSS, SVG"],
+      "link": "https://derfortam.github.io/web-autumn/community/index.html",
+      "images": {
+         "mainPhoto": "/images/main-canv.jpg",
+         "secondPhoto": "/images/second-canv.jpg",
+         "accentPhoto": "/images/accent-canv.jpg"
+      },
+      "roles": ["Front-End engineer"],
+      "isReverse": true
+   }
+]
